@@ -1,0 +1,13 @@
+# Ignorer le dossier d'environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers temporaires
+*.log
+*.db
+
+# Dossiers de VSCode
+.vscode/
